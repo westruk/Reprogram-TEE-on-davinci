@@ -22,7 +22,7 @@ This guide will **NOT** provide instructions for passing Strong verdict.
 - An unlocked bootloader.
 - BASIC KNOWLEDGE OF LINUX.
 - A valid keybox.xml file, you can use this one in the repo.
-- The engineering ROM for your device.
+- The [engineering ROM](https://t.me/xiaomiengs/7) for your device.
 
 ## Instructions:
 
