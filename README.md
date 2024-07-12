@@ -33,6 +33,15 @@ This guide will **NOT** provide instructions for passing Strong verdict.
 adb root
 ```
 ```
+adb disable-verity
+```
+```
+adb reboot
+```
+```
+adb root
+```
+```
 adb remount
 ```
 ```
