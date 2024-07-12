@@ -1,5 +1,5 @@
-# Reprogram TEE on Qualcomm devices
-Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys.
+# Reprogram TEE on Davinci
+Guide to reprogram the TEE on Xiaomi Mi 9T / Redmi K20 devices to fix lost attestation keys.
 
 ## Why?
 
